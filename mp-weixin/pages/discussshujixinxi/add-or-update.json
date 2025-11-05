@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#000000",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "xia-editor": "/components/xia-editor/xia-editor",
+    "uni-rate": "/components/uni-rate/uni-rate",
+    "w-picker": "/components/w-picker/w-picker",
+    "multiple-select": "/components/momo-multipleSelect/momo-multipleSelect"
+  }
+}
